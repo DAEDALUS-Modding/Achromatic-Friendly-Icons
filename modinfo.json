@@ -1,0 +1,21 @@
+{
+	"identifier": "com.pa.achromatic-icons-tests",
+	"display_name": "Achromatic Icons Test",
+	"description": "Early test for achromatic-friendly strategic icons.",
+	"author": "Quildtide, Ferretmaster",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 100,
+	"icon": "",
+    "titansOnly": false,
+    "classicOnly": false,
+	"category": [
+        "classic",
+        "titans",
+        "ui"
+	],
+	"context": "client",
+	"date": "2021-11-05",
+	"build": "115958",
+    "version": "0.0.1"
+}
